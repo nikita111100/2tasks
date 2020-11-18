@@ -1,6 +1,6 @@
 package com.company;
 
-public class tasks {
+public class initializationOfFields {
     public static void main(String[] args) {
 	new B();
     }
